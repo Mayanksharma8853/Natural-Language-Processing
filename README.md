@@ -99,23 +99,12 @@ Every notebook emphasizes **clarity, structure, and reproducibility**.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python"/>
-  <img src="https://skillicons.dev/icons?i=jupyter"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn"/>
+  <img src="https://img.shields.io/badge/NLTK-3c873a?style=flat"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter"/>
 </p>
-
-<p align="center">
-  NumPy • Pandas • Scikit-learn • NLTK • SpaCy • Regex
-</p>
-
----
-
-## ▶️ Getting Started
-
-```bash
-git clone https://github.com/your-username/nlp.git
-cd nlp
-pip install -r requirements.txt
-jupyter notebook
