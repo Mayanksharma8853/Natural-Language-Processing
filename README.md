@@ -15,16 +15,18 @@ This repository serves as:
 The implementations emphasize **clarity, correctness, and reproducibility**.
 
 ---
+## 📌 Projects Included
 
-## 📓 Notebooks Included
+- **Sentiment Analysis**
+  - Classifying IMDB reviews as positive or negative
+  - Model: Logistic Regression
 
-| Notebook | Description |
-|--------|-------------|
-| `text_preprocessing.ipynb` | Text cleaning, normalization, tokenization, stemming, and lemmatization |
-| `bow_tfidf.ipynb` | Feature extraction using Bag of Words and TF-IDF |
-| `sentiment_analysis.ipynb` | Sentiment classification of IMDB reviews using Logistic Regression |
-| `resume_parser.ipynb` | Resume parsing using Regex and NLP techniques |
-| `model_evaluation.ipynb` | Model evaluation using accuracy score and confusion matrix |
+- **Resume Parser**
+  - Extracting name, email, phone number, and skills from resumes
+  - Techniques: Regex, NER, Text Cleaning
+  
+
+*(More projects will be added in the future)*
 
 ---
 
@@ -64,16 +66,5 @@ The implementations emphasize **clarity, correctness, and reproducibility**.
 
 ---
 
-## 🚀 Getting Started
 
-### Prerequisites
-- Python 3.x
-- Jupyter Notebook
 
-### Setup
-
-```bash
-git clone https://github.com/your-username/nlp.git
-cd nlp
-pip install -r requirements.txt
-jupyter notebook
