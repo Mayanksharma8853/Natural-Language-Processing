@@ -20,6 +20,10 @@
 
 ## ✨ Repository Vision
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 This repository is a **practical NLP workspace** built to explore, implement, and evaluate  
 modern **Natural Language Processing techniques** using Python.
 
@@ -29,6 +33,19 @@ It bridges the gap between:
 
 Every notebook emphasizes **clarity, structure, and reproducibility**.
 
+</td>
+
+<td width="40%" align="center">
+
+<img src=""C:\Users\MAYANK SHARMA\Desktop\github\mag.png""
+     alt="NLP Workflow"
+     width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
 ---
 
 ## 🚀 Projects Showcase
