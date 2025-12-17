@@ -37,7 +37,7 @@ Every notebook emphasizes **clarity, structure, and reproducibility**.
 
 <td width="40%" align="center">
 
-<img src=""C:\Users\MAYANK SHARMA\Desktop\github\mag.png""
+<img src="https://raw.githubusercontent.com/Mayanksharma8853/Natural-Language-Processing/123ec8bd0d9073477d7f4ea228908ae2072bf8f1/mag.png"
      alt="NLP Workflow"
      width="100%"/>
 
