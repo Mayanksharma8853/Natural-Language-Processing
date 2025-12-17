@@ -106,12 +106,15 @@ Every notebook emphasizes **clarity, structure, and reproducibility**.
 
 ---
 
-## ⚙️ Technology Stack
+## 🛠️ Technology Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn"/>
-  <img src="https://img.shields.io/badge/NLTK-3c873a?style=flat"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter"/>
-</p>
+- **Programming Language:** Python  
+- **Libraries & Tools:**  
+  - NumPy  
+  - Pandas  
+  - Scikit-learn  
+  - NLTK / SpaCy  
+  - Regular Expressions  
+  - Jupyter Notebook  
+
+---
