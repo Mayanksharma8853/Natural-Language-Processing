@@ -38,30 +38,7 @@ It includes **well-documented Jupyter notebooks** and **project-oriented solutio
 
 ---
 
-## 📂 Repository Highlights
 
-<table>
-  <tr>
-    <td width="50%">
-      <ul>
-        <li>Step-by-step Jupyter notebooks</li>
-        <li>Real-world datasets</li>
-        <li>Clean and readable code</li>
-        <li>Model evaluation & analysis</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <ul>
-        <li>Text preprocessing pipelines</li>
-        <li>Feature engineering techniques</li>
-        <li>ML-based NLP models</li>
-        <li>Scalable project structure</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 📓 Notebooks & Implementations
 
@@ -100,10 +77,3 @@ It includes **well-documented Jupyter notebooks** and **project-oriented solutio
 
 ---
 
-## 🚀 Getting Started
-
-```bash
-git clone https://github.com/your-username/nlp.git
-cd nlp
-pip install -r requirements.txt
-jupyter notebook
