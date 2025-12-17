@@ -42,4 +42,80 @@ Every notebook emphasizes **clarity, structure, and reproducibility**.
 
 - Binary sentiment classification  
 - Predicts **positive / negative** sentiment  
-- **Model:** Logist
+- **Model:** Logistic Regression  
+- **Techniques:**  
+  - Text Cleaning  
+  - BoW & TF-IDF  
+  - Feature Engineering  
+
+</td>
+<td width="50%" valign="top">
+
+### 🟩 Resume Parser  
+**Information Extraction System**
+
+- Extracts structured data from resumes  
+- Fields:
+  - Name  
+  - Email  
+  - Phone Number  
+  - Skills  
+- **Techniques:**  
+  - Regex  
+  - NER  
+  - Text Normalization  
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  📌 <i>More NLP projects will be added as the repository evolves.</i>
+</p>
+
+---
+
+## 📓 Learning Notebooks
+
+| Notebook | Description |
+|--------|-------------|
+| `text_preprocessing.ipynb` | Cleaning, normalization, tokenization |
+| `bow_tfidf.ipynb` | Bag of Words & TF-IDF |
+| `sentiment_analysis.ipynb` | End-to-end sentiment pipeline |
+| `resume_parser.ipynb` | Resume information extraction |
+| `model_evaluation.ipynb` | Metrics & performance analysis |
+
+---
+
+## 🧠 NLP Toolkit
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Text%20Cleaning-✔-success"/>
+  <img src="https://img.shields.io/badge/Tokenization-✔-success"/>
+  <img src="https://img.shields.io/badge/TF--IDF-✔-success"/>
+  <img src="https://img.shields.io/badge/NER-✔-success"/>
+  <img src="https://img.shields.io/badge/Sentiment%20Analysis-✔-success"/>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python"/>
+  <img src="https://skillicons.dev/icons?i=jupyter"/>
+</p>
+
+<p align="center">
+  NumPy • Pandas • Scikit-learn • NLTK • SpaCy • Regex
+</p>
+
+---
+
+## ▶️ Getting Started
+
+```bash
+git clone https://github.com/your-username/nlp.git
+cd nlp
+pip install -r requirements.txt
+jupyter notebook
