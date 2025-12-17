@@ -90,17 +90,7 @@ Every notebook emphasizes **clarity, structure, and reproducibility**.
   📌 <i>More NLP projects will be added as the repository evolves.</i>
 </p>
 
----
 
-## 📓 Learning Notebooks
-
-| Notebook | Description |
-|--------|-------------|
-| `text_preprocessing.ipynb` | Cleaning, normalization, tokenization |
-| `bow_tfidf.ipynb` | Bag of Words & TF-IDF |
-| `sentiment_analysis.ipynb` | End-to-end sentiment pipeline |
-| `resume_parser.ipynb` | Resume information extraction |
-| `model_evaluation.ipynb` | Metrics & performance analysis |
 
 ---
 
