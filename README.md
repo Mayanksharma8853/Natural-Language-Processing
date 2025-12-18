@@ -101,7 +101,6 @@ Every notebook emphasizes **clarity, structure, and reproducibility**.
   <img src="https://img.shields.io/badge/Tokenization-✔-success"/>
   <img src="https://img.shields.io/badge/TF--IDF-✔-success"/>
   <img src="https://img.shields.io/badge/NER-✔-success"/>
-  <img src="https://img.shields.io/badge/Sentiment%20Analysis-✔-success"/>
 </p>
 
 ---
